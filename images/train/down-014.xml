@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2down</folder>
+	<filename>down-014.jpg</filename>
+	<path>/Users/nicksonng/Documents/MDP/TFObjectDetection/Images/raw/2down/down-014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>162</ymin>
+			<xmax>371</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

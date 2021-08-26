@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4left</folder>
+	<filename>left-010.jpg</filename>
+	<path>/Users/nicksonng/Documents/MDP/TFObjectDetection/Images/raw/4left/left-010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>102</ymin>
+			<xmax>425</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

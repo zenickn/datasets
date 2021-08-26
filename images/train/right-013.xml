@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3right</folder>
+	<filename>right-013.jpg</filename>
+	<path>/Users/nicksonng/Documents/MDP/TFObjectDetection/Images/raw/3right/right-013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>148</ymin>
+			<xmax>406</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

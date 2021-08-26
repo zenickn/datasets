@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1up</folder>
+	<filename>ezgif-frame-034.jpg</filename>
+	<path>/Users/nicksonng/Documents/MDP/TFObjectDetection/Images/raw/1up/ezgif-frame-034.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>154</ymin>
+			<xmax>336</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>
